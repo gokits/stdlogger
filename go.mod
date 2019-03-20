@@ -1,4 +1,4 @@
-module stdlogger
+module github.com/gokits/stdlogger
 
 go 1.12
 
